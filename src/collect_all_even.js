@@ -1,5 +1,7 @@
 'use strict';
 
+
+
 function collect_all_even(collection) {
 	var nums = [];
 
